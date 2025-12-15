@@ -5,8 +5,6 @@
 
 Greenmerald combines the speed of a CLI with the visual feedback of a GUI. It allows you to explore directories with a tree-view structure, view detailed file information, and render Markdown documents directly in your terminal with full styling support.
 
-![Greenmerald Notes](./assets/greenmerald-notes.png)
-
 ---
 
 ## ✨ Key Features
@@ -15,6 +13,7 @@ Greenmerald combines the speed of a CLI with the visual feedback of a GUI. It al
 - **📂 Interactive Tree View**: Toggle between a flat list and a recursive tree structure ('e'). Expand or collapse specific folders ('t') to visualize nested content.
 - **📝 Markdown Rendering**: Instantly preview Markdown files with headings, code blocks, lists, and bold/italic styling directly in the preview pane.
 - **👀 Triple-Panel View**: View the content directory the mardowns and the interactive markdowns.
+- **ℹ️ File Insights**: Get immediate metadata and details for any selected file or directory.
 - **📜 Scrollable Previews**: smooth scrolling for long documents and file information.
 
 ## 🛠️ Installation
