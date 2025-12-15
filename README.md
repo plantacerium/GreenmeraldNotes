@@ -29,7 +29,7 @@ Greenmerald combines the speed of a CLI with the visual feedback of a GUI. It al
 git clone https://github.com/plantacerium/GreenmeraldNotes.git
 
 # Navigate to the project directory
-cd greenmerald-tui-markdown-renderer
+cd GreenmeraldNotes
 
 # Run the application
 cargo run
